@@ -1,0 +1,98 @@
+DC-Baltimore Perl Workshop 2012
+Sponsor's Prospectus
+
+About the DC-Baltimore Perl Workshop
+
+The DC-Baltimore Perl Workshop (DCBPW) is a code-oriented technical
+conference for Perl programmers and potential Perl programmers. While
+this is the inaugural year for DCBPW, the workshop is being modeled on
+a number of successful regional Perl workshops (e.g., Pittsburg Perl
+Workshop, Orlando Perl Workshop/Perl Oasis, Frozen Perl, etc.) that
+have been held in various parts of the United States over the last
+several years. Like these other small regional workshops, we intend
+for DCBPW to feature:
+
+* A mix of theory and practice in Perl programming, featuring
+  viewpoints from a variety of backgrounds (academic, government,
+  enterprise)
+
+* An emphasis on technical talks involving actual code and pragmatic
+  applications of material covered
+
+* Low-cost admission to encourage attendance (and free admission for
+  students and the currently unemployed)
+
+* An academic-style conference environment that eliminates
+  distractions, maintains a strong focus on the content, and promotes
+  fellowship and interaction between talented programmers
+
+About this year's conference
+
+This year, we hope to attract between 50 and 100 conference attendees
+from various parts of the United States. We have also had some
+interest expressed from some potential European attendees, who are
+attracted not only by the conference but also by the variety of
+tourist attractions available in the area. This year's conference will
+feature two tracks, one featuring a variety of submitted talks and the
+other focusing on "beginner" level Perl topics. This track will begin
+with talks that assume no prior Perl experience and continue on to
+feature various aspects of modern Perl development, including Moose
+and at least one Perl web framework.
+
+Why sponsor the DC-Baltimore Perl Workshop?
+
+1 - Sponsorship puts you on display. It demonstrates your leadership
+    and community involvement to the very professionals that are
+    shaping the future of technology.
+
+2 - Sponsorship helps you meet talented future employees. We expect
+    DCBPW to attract a diverse selection of talented programmers from
+    across the world and concentrate them at one event. This is a
+    great way to demonstrate that you are an employer that supports
+    things they value; it's also a great opportunity to initiate a
+    conversation with these programmers about potential employment
+    opportunities you have to offer. One of the great laments about
+    Perl in the Baltimore and DC tech communities is how hard it is to
+    hire great Perl programmers -- this is a chance to meet a whole
+    conference worth of them.
+
+3 - Sponsorship aids a great cause. It supports the programming
+    community and the community's traditions of rich technical talks,
+    sharing, and fellowship.
+
+How to become a sponsor
+
+Sponsoring is easy: just email sponsors@dcbpw.org and say, "I'm
+interested in sponsorship." We'll work something out. In general,
+though, here's what we're looking for.
+
+Our budget estimate for DCBPW 2012 is $5,000, which will cover
+conference facilities, food service, social gatherings, limited
+speaker expenses, printing costs, and other expenses. We are seeking a
+few sponsors to underwrite the bulk of these expenses. Ideally, we
+would have:
+
+* one event sponsor to underwrite approximately one-half of the
+  conference expenses (minimum contribution $2500), in consideration
+  for which the sponsor will be prominently recognized on the
+  conference web site and in all official conference materials
+
+* two to four contributing sponsors to underwrite the balance of the
+  major conference expenses (minimum contribution $500), in
+  consideration for which the sponsors will be acknowledged on the
+  conference web site and in all official conference materials
+
+* two to four community sponsors to provide limited sponsorship
+  (minimum contribution $100) for events such as snack breaks,
+  after-event social gatherings, and programming "hackathons".
+
+Please take this opportunity to become a sponsor. Sponsorship is made
+in the form of a donation to The Perl Foundation, a 501(c)(3)
+non-profit organization with nearly a decade of experience creating
+and aiding extremely successful conferences. We and the Perl
+Foundation are working closely to ensure the success of what is
+hopefully the first of many DC-Baltimore Perl Workshops.
+
+If you have any questions or would like to initiate a sponsorship,
+please contact us at sponsors@dcbpw.org.
+
