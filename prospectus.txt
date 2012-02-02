@@ -29,15 +29,16 @@ for DCBPW to feature:
 About this year's conference
 
 This year, we hope to attract between 50 and 100 conference attendees
-from various parts of the United States. We have also had some
-interest expressed from some potential European attendees, who are
-attracted not only by the conference but also by the variety of
-tourist attractions available in the area. This year's conference will
-feature two tracks, one featuring a variety of submitted talks and the
-other focusing on "beginner" level Perl topics. This track will begin
-with talks that assume no prior Perl experience and continue on to
-feature various aspects of modern Perl development, including Moose
-and at least one Perl web framework.
+from various parts of the United States come to the Catonsville campus
+of the Community College of Baltimore County (CCBC), just outside
+Baltimore. We have had some interest expressed from some potential
+European attendees, who are attracted not only by the conference but
+also by the variety of tourist attractions available in the area. This
+year's conference will feature two tracks, one featuring a variety of
+submitted talks and the other focusing on "beginner" level Perl
+topics. This track will begin with talks that assume no prior Perl
+experience and continue on to feature various aspects of modern Perl
+development, including Moose and at least one Perl web framework.
 
 Why sponsor the DC-Baltimore Perl Workshop?
 
