@@ -90,9 +90,9 @@ would have:
 Please take this opportunity to become a sponsor. Sponsorship is made
 in the form of a donation to The Perl Foundation, a 501(c)(3)
 non-profit organization with nearly a decade of experience creating
-and aiding extremely successful conferences. We and the Perl
-Foundation are working closely to ensure the success of what is
-hopefully the first of many DC-Baltimore Perl Workshops.
+and aiding extremely successful conferences. We are working with the
+Perl Foundation to ensure the success of our second in what is
+hopefully many annual DC-Baltimore Perl Workshops.
 
 If you have any questions or would like to initiate a sponsorship,
 please contact us at sponsors@dcbpw.org.
