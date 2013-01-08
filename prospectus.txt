@@ -1,16 +1,15 @@
-DC-Baltimore Perl Workshop 2012
+DC-Baltimore Perl Workshop 2013
 Sponsor's Prospectus
 
 About the DC-Baltimore Perl Workshop
 
 The DC-Baltimore Perl Workshop (DCBPW) is a code-oriented technical
-conference for Perl programmers and potential Perl programmers. While
-this is the inaugural year for DCBPW, the workshop is being modeled on
-a number of successful regional Perl workshops (e.g., Pittsburg Perl
-Workshop, Orlando Perl Workshop/Perl Oasis, Frozen Perl, etc.) that
-have been held in various parts of the United States over the last
-several years. Like these other small regional workshops, we intend
-for DCBPW to feature:
+conference for Perl programmers and potential Perl programmers. Now in
+its second year, the workshop is modeled on a number of successful
+regional Perl workshops (e.g., Pittsburg Perl Workshop, Orlando Perl
+Workshop/Perl Oasis, Frozen Perl, etc.) that have been held in various
+parts of the United States over the past several years. Like these
+other small regional workshops, DCBPW features:
 
 * A mix of theory and practice in Perl programming, featuring
   viewpoints from a variety of backgrounds (academic, government,
@@ -28,9 +27,10 @@ for DCBPW to feature:
 
 About this year's conference
 
-This year, we hope to attract between 50 and 100 conference attendees
-from various parts of the United States come to the Catonsville campus
-of the Community College of Baltimore County (CCBC), just outside
+After last years successful launch (over 50 attendees and 15
+presentations across two tracks!), this year, we plan to attract
+between 50 and 100 conference attendees from various parts of the
+United States to the campus of the University of Baltimore, in midtown
 Baltimore. We have had some interest expressed from some potential
 European attendees, who are attracted not only by the conference but
 also by the variety of tourist attractions available in the area. This
@@ -46,16 +46,16 @@ Why sponsor the DC-Baltimore Perl Workshop?
     and community involvement to the very professionals that are
     shaping the future of technology.
 
-2 - Sponsorship helps you meet talented future employees. We expect
-    DCBPW to attract a diverse selection of talented programmers from
-    across the world and concentrate them at one event. This is a
-    great way to demonstrate that you are an employer that supports
-    things they value; it's also a great opportunity to initiate a
-    conversation with these programmers about potential employment
-    opportunities you have to offer. One of the great laments about
-    Perl in the Baltimore and DC tech communities is how hard it is to
-    hire great Perl programmers -- this is a chance to meet a whole
-    conference worth of them.
+2 - Sponsorship helps you meet talented future employees. DCBPW
+    attracts a diverse selection of talented programmers from across
+    the world and concentrates them at one event. This is a great way
+    to demonstrate that you are an employer that supports things they
+    value; it's also a great opportunity to initiate a conversation
+    with these programmers about potential employment opportunities
+    you have to offer. One of the great laments about Perl in the
+    Baltimore and DC tech communities is how hard it is to hire great
+    Perl programmers -- this is a chance to meet a whole conference
+    worth of them.
 
 3 - Sponsorship aids a great cause. It supports the programming
     community and the community's traditions of rich technical talks,
@@ -67,7 +67,7 @@ Sponsoring is easy: just email sponsors@dcbpw.org and say, "I'm
 interested in sponsorship." We'll work something out. In general,
 though, here's what we're looking for.
 
-Our budget estimate for DCBPW 2012 is $5,000, which will cover
+Our budget estimate for DCBPW 2013 is $5,000, which will cover
 conference facilities, food service, social gatherings, limited
 speaker expenses, printing costs, and other expenses. We are seeking a
 few sponsors to underwrite the bulk of these expenses. Ideally, we
